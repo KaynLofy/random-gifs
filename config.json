@@ -1,7 +1,7 @@
 {
-    "token":"", // TOKEN do Bot
-    "pfpid":"", // Coloque o ID do canal de random icon
-    "gifid":"", // Coloque o ID do canal de random gif
-    "bannerid":"", // Coloque o ID do canal de random banner
-    "guildid":"" // Coloque o ID do Servidor.
+    "token":"", // MTAyNjY5MDgyOTI4MjE5NzUwNQ.GXs55A.BXrutdWslEi35t0aUtcl8K1KpIjCdw2E60N8so
+    "pfpid":"", // 1026680331060903976
+    "gifid":"", // 1026680424212201523
+    "bannerid":"", // 1026680553820401684
+    "guildid":"" // 933893183711084654
 }
